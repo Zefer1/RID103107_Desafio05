@@ -17,9 +17,8 @@
 ├── package.json
 └── …
 
-## 🚀 Live Demo
-
-https://singular-kashata-2e855c.netlify.app/
+## 🔗 Link do Deploy
+👉 [Acede aqui à aplicação] https://singular-kashata-2e855c.netlify.app/
 
 ---
 
